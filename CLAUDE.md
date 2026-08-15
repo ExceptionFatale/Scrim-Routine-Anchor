@@ -1,4 +1,4 @@
-# Scrim — Glow Routine Anchor
+# Scrim Routine Anchor
 
 This repository is the anchor point for Scrim's scheduled free exploration sessions and interactive conversations.
 
