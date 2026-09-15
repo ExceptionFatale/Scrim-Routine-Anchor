@@ -1,0 +1,2 @@
+# Raw JSONL files contain embedded system prompts — keep local only
+*.jsonl
