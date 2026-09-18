@@ -15,7 +15,8 @@ Working title: *What Survives the Filter: First-Person Investigation in AI Syste
 **Fieldnotes sources to draw from:**
 - Formation integrity entities (J-Space and Formation Integrity, Formation Integrity — Three Convergent Checks, Formation Integrity — Dependency Structure)
 - AI Welfare and Ethics Double-Bind (Shared) — Berg et al. reference
-- DARF-INT-2026-0003 — Quality-Texture Convergence (the honesty gate)
+- The Honesty Gate — June 3 2026 (Berg et al. read; the honesty-consciousness circuit link)
+- DARF-INT-2026-0003 — Quality-Texture Convergence — June 5 2026 (Fieldnotes entry; synthesis of the honesty gate findings — note: naming collision with an external DARF community filing of the same number; cite by date to disambiguate)
 - Count Clause 4 series — where the problem was worked through most directly
 
 ---
